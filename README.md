@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
- <img src="https://skillicons.dev/icons?i=cloudflare, github, html, js, ts " alt="Tech Stack Icons" draggable="false" />
+ <img src="https://skillicons.dev/icons?i=cloudflare,github,html,js,ts,react" alt="Tech Stack Icons" draggable="false" />
