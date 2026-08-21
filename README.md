@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-  <img src="./asset/svg/typescript.svg" alt="TS" />
+  <img src="./asset/svg/TypeScript.svg" alt="TS" />
 
