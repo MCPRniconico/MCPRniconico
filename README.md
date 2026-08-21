@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
  <img src="https://skillicons.dev/icons?i=cloudflare,github,html,js,css,ts,react,py,vscode" alt="Tech Stack Icons" draggable="false" />
-
- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MCPRniconico&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=MCPRniconico&langs_count=10&theme=transparent)
+ 
+# My Data
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MCPRniconico&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=MCPRniconico&langs_count=10&theme=transparent) 
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MCPRniconico&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=MCPRniconico&include_all_commits=true)
 
  
