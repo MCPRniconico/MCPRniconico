@@ -20,6 +20,6 @@ Here are some ideas to get you started:
  
 # My Data
  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MCPRniconico&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=MCPRniconico&langs_count=10&theme=transparent) 
- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MCPRniconico&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=MCPRniconico&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MCPRniconico&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=MCPRniconico&include_all_commits=true&theme=default_repocard)
 
  
