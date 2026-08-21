@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="./asset/svg/TypeScript.svg" alt="TS" width="32" height="32" />
+ <img src="https://skillicons.dev/icons?i=cloudflare, github, html, js, ts " alt="Tech Stack Icons" draggable="false" />
